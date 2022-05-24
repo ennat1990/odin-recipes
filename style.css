@@ -6,11 +6,11 @@ body{
 
 h1{
     text-align: center;
-    color: lightcoral;
+    color: lightblue;
 }
 
 ul{
-    
+    list-style: none;
 }
 
 a{
