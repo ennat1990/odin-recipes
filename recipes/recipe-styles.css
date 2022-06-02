@@ -1,0 +1,15 @@
+body{
+    margin: 0 10%;
+    font-family: Montserrat, sans-seif;
+    background-color: lightcyan;
+}
+
+h1{
+    text-align: center;
+    color: lightblue;
+}
+
+img{ 
+    width: 400px;
+    margin: auto;
+}
