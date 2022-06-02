@@ -10,8 +10,9 @@ h1{
 }
 
 img{ 
+    display: block;
     width: 600px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 p{
